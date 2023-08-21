@@ -1,0 +1,35 @@
+Writing to a file succesfully
+Before Swap
+p[0][0] = 42
+p[0][1] = 68
+p[0][2] = 35
+p[0][3] = 1
+p[1][0] = 70
+p[1][1] = 25
+p[1][2] = 79
+p[1][3] = 59
+p[2][0] = 63
+p[2][1] = 65
+p[2][2] = 6
+p[2][3] = 46
+Copy constructor
+p[0][0] = 42
+p[0][1] = 68
+p[0][2] = 35
+p[0][3] = 1
+p[1][0] = 70
+p[1][1] = 25
+p[1][2] = 79
+p[1][3] = 59
+p[2][0] = 63
+p[2][1] = 65
+p[2][2] = 6
+p[2][3] = 46
+Move operator =
+Destructor
+Move constructor
+Destructor
+Destructor
+Destructor
+Destructor
+Destructor
